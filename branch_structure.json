@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/issue-1368-add-backend-replay-detector-for-duplicate",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/issue-1368-add-backend-replay-detector-for-duplicate": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/issue-1368-add-backend-replay-detector-for-duplicate",
+    "origin"
+  ]
+}
